@@ -1,2 +1,2 @@
 # ReactTodo
-React Application of TodoList with categories and Basic CRUD operations
+Basic React App for adding todos and Categories in a React App
